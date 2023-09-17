@@ -4,7 +4,7 @@ const generate = document.getElementById('generate');
 const dateToday = document.getElementById('dateToday')
 const temp = document.getElementById('temp');
 const weather = document.getElementById('weather');
-const Icon = document.getElementById('icon');
+const city = document.getElementById('city');
 
 // Create a new date instance dynamically with JS
 let d = new Date();
