@@ -1,58 +1,53 @@
-body{
-    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    background-image: url(./Img/487.jpg);
+body {
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	background-image: url(/487.jpg);
 }
 
-.weather-app{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+.weather-app {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
 }
 
-.title{
-    margin: 20px;
-    font-size: 48px;
-    font-weight: 900;
-    color:darkmagenta     
+.title {
+	margin: 20px;
+	font-size: 48px;
+	font-weight: 900;
+	color: darkmagenta;
 }
 
-.zip{
-    margin: 10px;
-    font-size: 24px;
-    font-weight: 500;
+.zip {
+	margin: 10px;
+	font-size: 24px;
+	font-weight: 500;
 }
 
-input{
-    margin: 10px;
-    height: 50px;
-    font-size: 16px;
-    
+input {
+	margin: 10px;
+	height: 50px;
+	font-size: 16px;
 }
 
-button{
-    margin: 20px;
-    height: 30px;
-    border-radius: 10%;
-    background-color: darkmagenta;
-    color: white;
+button {
+	margin: 20px;
+	height: 30px;
+	border-radius: 10%;
+	background-color: darkmagenta;
+	color: white;
 }
 
-h3{
-    font-size: 24px;
-    color: darkmagenta;
-    text-decoration: underline;
+h3 {
+	font-size: 24px;
+	color: darkmagenta;
+	text-decoration: underline;
 }
 
-.output{
-    font-size: 24px;
-    text-align: center;
+.output {
+	font-size: 24px;
+	text-align: center;
 }
-
-
-
-
 
 /*h1{
     text-align: center;
