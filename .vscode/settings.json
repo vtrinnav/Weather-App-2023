@@ -1,5 +1,5 @@
 {
-    "prettier.useTabs": true,
-    "liveServer.settings.port": 5501,
-    "livePreview.defaultPreviewPath": "/website/index.html"
+	"prettier.useTabs": true,
+	"liveServer.settings.port": 5502,
+	"livePreview.defaultPreviewPath": "/website/index.html"
 }
